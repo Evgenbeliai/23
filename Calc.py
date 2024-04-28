@@ -1,4 +1,4 @@
-#test  гита
+#test  гита 28.04/2024
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import (QApplication, QWidget, QPushButton,
                              QLineEdit,QHBoxLayout,QVBoxLayout)
